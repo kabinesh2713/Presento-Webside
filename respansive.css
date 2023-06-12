@@ -1,0 +1,98 @@
+@media (max-width:768px){
+   .Bettter{
+	   text-align:center;
+   }
+   .Bettter h1{
+	   font-size:35px;
+   } 
+   .Bettter p{
+	   font-size:18px;
+   }
+   .about-content{
+	   text-align:center;
+   }
+   .about{
+	   text-align:center;
+   }
+    .services h2:after{
+		top:30px;
+	}   
+	.services h2{
+		font-size:20px;
+	}	
+    .nav-item i{
+	  margin:0 auto;
+font-size:20px;	  
+	}
+  .tab-pane h2{
+	  margin:20px;
+  }	
+}
+<script>
+//Find Addition//
+var a=15;
+var b=15;
+var c=15;
+var d=a+b+c;
+document.write(d+"<br>");//
+
+//Calculate Subtraction//
+var a=20;
+var b=5;
+var d=a-b;
+document.write(d+"<br>");
+
+//Calculate multiplication//
+var a=20;
+var b=5;
+var d=a*b;
+document.write(d+"<br>");
+
+//Calculate Division//
+var a=20;
+var b=10;
+var d=a/b;
+document.write(d+"<br>");
+
+//Program to Calculate area of circle//
+var r=7;
+var area=22/7*r**2;
+document.write(area+"<br>");
+
+//Program to Calculate area of Triangle//
+var b=7;
+var h=2;
+var area=1/2*b*h;
+document.write(area+"<br>");
+
+//Program to Calculate Simple Interest//
+var p=1000;
+var r=20;
+var t=10;
+var si=p*r*t/100;
+document.write(si+"<br>");
+
+//Program to Calculate square//
+var a=5;
+var area=a**2;
+document.write(area+"<br>");
+
+//Program to Calculate Cube//
+var a=2;
+var area=6*a**2;
+document.write(area+"<br>");
+
+//Program to Calculate total and average//
+var a=5;
+var b=5;
+var c=5;
+var t=a+b+c;
+document.write(t+"<br>");
+var t=t/3
+document.write(t+"<br>");
+
+//Program to Calculate square//
+var a=5;
+var area=a**2;
+document.write(area+"<br>");//
+</script>
